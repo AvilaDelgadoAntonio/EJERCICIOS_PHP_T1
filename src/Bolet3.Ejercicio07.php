@@ -10,7 +10,7 @@ $cifra=mt_rand(1,48);
 echo "<br>Indica la capital de: $paises[$cifra]";
 <html>
 <body>
-<form action="Bolet3.Ejercicio07_IN PROGRESS.php" method="post">
+<form action="Bolet3.Ejercicio07.php" method="post">
 
 <select name="capital">
 
